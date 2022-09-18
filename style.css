@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: 'Tahoma', sans-serif;
+}
+
+h1 {
+    margin-top: 100px;
+    font-size: 25px;
+    color: #3b3b27;
+}
+
+.btn {
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+.button {
+    max-width:60%;
+    margin: 700px auto;
+
+}   
